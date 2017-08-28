@@ -1,3 +1,0 @@
-gem install terminal-notifier
-sudo brew intall mpg123
-sudo brew link mpg123
